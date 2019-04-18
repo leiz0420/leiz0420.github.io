@@ -1,0 +1,94 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="leiz0420.github.io" resolutions="1x,2x" timestamp="1555578886614">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3873876551" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="視覺-u327-fr.jpg" crc="90756930" ref="index"/>
+    <file name="u149-6.png" crc="3977640850" ref="index"/>
+    <file name="u149-6_2x.png" crc="462751826" ref="index"/>
+    <file name="u107-4.png" crc="416222180" ref="index"/>
+    <file name="u107-4_2x.png" crc="3861819412" ref="index"/>
+    <file name="u113-4.png" crc="3811757236" ref="index"/>
+    <file name="u113-4_2x.png" crc="253610198" ref="index"/>
+    <file name="background 1-u101-fr.png" crc="362987284" ref="index"/>
+    <file name="u108-4.png" crc="470852891" ref="index"/>
+    <file name="u108-4_2x.png" crc="3840443005" ref="index"/>
+    <file name="u112-4.png" crc="263492642" ref="index"/>
+    <file name="u112-4_2x.png" crc="368030544" ref="index"/>
+    <file name="u109-4.png" crc="4068116830" ref="index"/>
+    <file name="u109-4_2x.png" crc="3980128659" ref="index"/>
+    <file name="u114-14.png" crc="3849021483" ref="index"/>
+    <file name="u114-14_2x.png" crc="4204252811" ref="index"/>
+    <file name="target.png" crc="4037059486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u110-4.png" crc="4204961367" ref="index"/>
+    <file name="u110-4_2x.png" crc="4103931981" ref="index"/>
+    <file name="u121-4.png" crc="3895201361" ref="index"/>
+    <file name="u121-4_2x.png" crc="339050943" ref="index"/>
+    <file name="u129-4.png" crc="4051842467" ref="index"/>
+    <file name="u129-4_2x.png" crc="4107035602" ref="index"/>
+    <file name="u131-4.png" crc="8596780" ref="index"/>
+    <file name="u131-4_2x.png" crc="3970041444" ref="index"/>
+    <file name="u133-4.png" crc="4013712188" ref="index"/>
+    <file name="u133-4_2x.png" crc="323863104" ref="index"/>
+    <file name="u137-4.png" crc="325251713" ref="index"/>
+    <file name="u137-4_2x.png" crc="3988452482" ref="index"/>
+    <file name="idle.png" crc="3927450958" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u122-4.png" crc="337517081" ref="index"/>
+    <file name="u122-4_2x.png" crc="133797463" ref="index"/>
+    <file name="idle2.png" crc="529836046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u130-4.png" crc="99557193" ref="index"/>
+    <file name="u130-4_2x.png" crc="425466828" ref="index"/>
+    <file name="u132-4.png" crc="3926057939" ref="index"/>
+    <file name="u132-4_2x.png" crc="3940872886" ref="index"/>
+    <file name="u134-4.png" crc="261201340" ref="index"/>
+    <file name="u134-4_2x.png" crc="3781672478" ref="index"/>
+    <file name="u138-4.png" crc="4070008218" ref="index"/>
+    <file name="u138-4_2x.png" crc="185983311" ref="index"/>
+    <file name="u111-4.png" crc="4043317638" ref="index"/>
+    <file name="u111-4_2x.png" crc="243650255" ref="index"/>
+    <file name="p1 cloth1.png" crc="45821389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2cloth1.png" crc="362342274" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0418.jpg" crc="109876744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u144-6.png" crc="3869898453" ref="index"/>
+    <file name="u144-6_2x.png" crc="4286967862" ref="index"/>
+    <file name="u96-4.png" crc="520940646" ref="index"/>
+    <file name="u96-4_2x.png" crc="4507791" ref="index"/>
+    <file name="u97-4.png" crc="295940269" ref="index"/>
+    <file name="u97-4_2x.png" crc="3895072276" ref="index"/>
+    <file name="u98-4.png" crc="377638052" ref="index"/>
+    <file name="u98-4_2x.png" crc="359644940" ref="index"/>
+    <file name="u99-4.png" crc="459877603" ref="index"/>
+    <file name="u99-4_2x.png" crc="3848248861" ref="index"/>
+    <file name="u100-4.png" crc="4043832527" ref="index"/>
+    <file name="u100-4_2x.png" crc="408049965" ref="index"/>
+    <file name="chicken icon.png" crc="3997598223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chicken icon_2x.png" crc="3849328750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="356299687" seo="true" mt="1555578857228" redirect="true"/>
+</manifest>
